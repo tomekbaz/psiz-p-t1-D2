@@ -5,3 +5,8 @@ void jan_kowalski(void)
 {
 	Jan Kowalski
 }
+
+void rafal_klepacz(void)
+{
+	Rafał Klepacz
+}
