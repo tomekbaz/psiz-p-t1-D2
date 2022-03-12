@@ -15,3 +15,8 @@ void damian_grzybowski(void)
 {
 	Damian Grzybowski
 }
+
+void sylwester_foerster(void)
+{
+	Sylwester Foerster
+}
