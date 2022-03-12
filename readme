@@ -5,3 +5,8 @@ void tomasz_ciula(void)
 {
 	Tomasz Ciuła
 }
+
+void rafal_klepacz(void)
+{
+	Rafał Klepacz
+}
