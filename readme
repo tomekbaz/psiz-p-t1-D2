@@ -10,3 +10,8 @@ void rafal_klepacz(void)
 {
 	Rafał Klepacz
 }
+
+void damian_grzybowski(void)
+{
+	Damian Grzybowski
+}
