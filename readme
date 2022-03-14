@@ -20,6 +20,12 @@ void sylwester_foerster(void)
 {
 	Sylwester Foerster
 }
+
+void tomasz_bazylczyk(void)
+{
+	Tomasz Bazylczyk
+}
+
 void kamil_getler(void)
 {
 	Kamil Getler
