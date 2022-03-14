@@ -25,3 +25,8 @@ void tomasz_bazylczyk(void)
 {
 	Tomasz Bazylczyk
 }
+
+void kamil_getler(void)
+{
+	Kamil Getler
+}
