@@ -30,3 +30,8 @@ void kamil_getler(void)
 {
 	Kamil Getler
 }
+
+void daniel_flis(void)
+{
+	Daniel Flis
+}
