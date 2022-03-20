@@ -31,6 +31,11 @@ void kamil_getler(void)
 	Kamil Getler
 }
 
+void karol_kufka(void)
+{
+	Karol Kufka
+}
+
 void iwona_ponicka(void)
 {
 	Iwona Ponicka
