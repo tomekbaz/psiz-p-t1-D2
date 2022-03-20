@@ -31,6 +31,11 @@ void kamil_getler(void)
 	Kamil Getler
 }
 
+void iwona_ponicka(void)
+{
+	Iwona Ponicka
+}
+
 void daniel_flis(void)
 {
 	Daniel Flis
