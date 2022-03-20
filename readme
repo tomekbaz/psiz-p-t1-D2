@@ -35,3 +35,8 @@ void daniel_flis(void)
 {
 	Daniel Flis
 }
+
+void arkadiusz_bajura(void)
+{
+	Arkadiusz Bajura
+}
