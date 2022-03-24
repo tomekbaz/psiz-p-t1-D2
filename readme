@@ -56,3 +56,8 @@ void arkadiusz_bajura(void)
 {
 	Arkadiusz Bajura
 }
+
+void dawid_jankiewicz(void)
+{
+	Dawid Jankiewicz
+}
