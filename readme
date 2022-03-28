@@ -61,3 +61,8 @@ void dawid_jankiewicz(void)
 {
 	Dawid Jankiewicz
 }
+
+void marcin_lekawski(void)
+{
+	Marcin Łękawski
+}
