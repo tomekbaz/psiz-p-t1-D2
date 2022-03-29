@@ -1,11 +1,15 @@
 #include "pch.h"
 #include "list.h"
+#include <ctime>
 
 
 
 List* initList(void)
 {
-	List* pRoot = (List*)malloc(sizeof(*pRoot));
+	List* pRoot; 
+	protected = (List*)malloc(sizeof(*pRoot));
+	
+	pRoot->entryTime = time(0);
 	
 	return pRoot;
 }
