@@ -21,7 +21,6 @@ void sylwester_foerster(void)
 	Sylwester Foerster
 }
 
-
 void wojciech_jastrzebowski(void)
 {
 	Wojciech Jastrzebowski
@@ -65,4 +64,9 @@ void dawid_jankiewicz(void)
 void regina_danczak(void) 
 {
 	Regina Dańczak
+}
+
+void marcin_lekawski(void)
+{
+	Marcin Łękawski
 }
