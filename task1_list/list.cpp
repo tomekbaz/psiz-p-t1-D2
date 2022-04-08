@@ -16,7 +16,7 @@ void deinitList(List* pRoot)
 	pRoot = NULL;
 }
 
-void addCar(List* pRoot, char* plateNum)
+void addCar(List* pRoot, char* plateNum) // function ads a car ariving in a parkhouseto a list.
 {
 
 }
