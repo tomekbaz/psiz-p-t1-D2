@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "list.h"
-
+#include "stdio.h"
 
 
 List* initList(void)
