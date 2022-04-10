@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "list.h"
-
+#include "stdio.h"
 
 
 List* initList(void)
@@ -16,7 +16,8 @@ void deinitList(List* pRoot)
 	pRoot = NULL;
 }
 
-void addCar(List* pRoot, char* plateNum) 
+// adding a new car to list
+void addCar(List* pRoot, char* plateNum)
 {
 
 }
@@ -31,5 +32,17 @@ void printAll(List* pRoot) {
 
 int numberOfElements(List* pRoot)
 {
-	return 0;
+    int number = 0;
+    if (pRoot == NULL)
+    {
+      return number;
+    }
+
+    List *pLastElement = pRoot;
+    while(pLastElement->pNext != NULL)
+    {
+        pLastElement = (pLastElement->pNext);
+        number++;
+    }
+    return number;
 }
