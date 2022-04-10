@@ -22,6 +22,7 @@ void addCar(List* pRoot, char* plateNum)
 
 }
 
+// deleting a car from list
 void removeCar(List* pRoot, char* plateNum)
 {
 
