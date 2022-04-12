@@ -11,6 +11,7 @@ List* initList(void)
 	return pRoot;
 }
 
+//deinit indicated list
 void deinitList(List* pRoot)
 {
 	free(pRoot);
