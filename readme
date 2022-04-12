@@ -75,3 +75,7 @@ void klaudia_bodyk(void)
 {
 	Klaudia Bodyk
 }
+void lucjan_bakowski(void)
+{
+	Lucjan Bakowski
+}
