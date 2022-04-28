@@ -1,6 +1,7 @@
 #include "pch.h"
 #include "list.h"
 #include "stdio.h"
+#include "math.h"
 
 
 List* initList(void)
@@ -22,6 +23,7 @@ void addCar(List* pRoot, char* plateNum)
 
 }
 
+// deleting a car from list
 void removeCar(List* pRoot, char* plateNum)
 {
 
